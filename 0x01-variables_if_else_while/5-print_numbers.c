@@ -2,7 +2,7 @@
 
 /*
  * main - Entry point
- * Description: A programme that prints single digit numbers from 0
+ * Description: This programme prints all single digit numbers from 0 to 10
  * Return: 0
  */
 int main(void)
