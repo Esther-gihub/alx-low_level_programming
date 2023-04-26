@@ -6,15 +6,15 @@
  *
  * Return: Always 0
  */
-int add(int, int);
+int add(int, int)
 {
 	int num1 = 5;
 	int num2 = 7;
 	{
-		int add( num1, num2);
+		int add(num1, num2);
 	}
 		
-		return (0);
+	return (num1 + num2);
 }
 
 
