@@ -15,7 +15,7 @@ void print_diagonal(int n)
 	{
 		int es, bo;
 
-		for (es = 0; es < n; es++);
+	for (es = 0; es < n; es++);
 	}
 		{
 		for (bo = 0; bo < es; bo++);
